@@ -58,7 +58,7 @@ int main()
     {
         uint16_t raw = adc_read();
         multicore_fifo_push_blocking(raw);
-        sleep_ms(1000);
+        // sleep_ms(1000);
     }
 
     return 0;
