@@ -8,6 +8,14 @@ it doesn't print to serial
 
 ## freertos_blink
 
+generate pico project and name it `freertos_blink`
+
+```shell
+./pico_project.py --gui
+```
+
+add freertos
+
 ```shell
 cd freertos_blink
 mkdir lib
