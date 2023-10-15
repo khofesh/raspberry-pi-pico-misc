@@ -28,6 +28,13 @@ compile
 ./flash.sh src/freertos_blink.elf
 ```
 
+## freertos part 2
+
+```shell
+git clone --recurse-submodules https://github.com/khofesh/rp2040-freertos-template.git
+```
+
 # References
 
 - youtube playlist: https://youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw&si=iJeGFPTNpFun2908
+- freertos tutorial: https://www.youtube.com/playlist?list=PLEB5F4gTNK68zDlrXbcCgJ6NejaP0PvHX
