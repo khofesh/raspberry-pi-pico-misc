@@ -46,3 +46,4 @@ git clone --recurse-submodules https://github.com/khofesh/rp2040-freertos-templa
 
 - youtube playlist: https://youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw&si=iJeGFPTNpFun2908
 - freertos tutorial: https://www.youtube.com/playlist?list=PLEB5F4gTNK68zDlrXbcCgJ6NejaP0PvHX
+- https://embeddedcomputing.com/technology/open-source/linux-freertos-related/using-freertos-with-the-raspberry-pi-pico-part-4
